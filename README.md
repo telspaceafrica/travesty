@@ -9,9 +9,16 @@ usage: travesty-v1.0.py [-h] -t TRAVERSAL -o OUTPUT
 This is a public release Travesty script - Telspace Systems
 
 optional arguments:
+
   -h, --help            show this help message and exit
+  
   -t TRAVERSAL, --traversal TRAVERSAL
+  
                         Traversal URL - in full - i.e.
+                        
                         https://www.domain.com/../../../../
+                        
   -o OUTPUT, --output OUTPUT
+  
                         Output file name
+                        
